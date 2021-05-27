@@ -1,0 +1,11 @@
+Kauno krepsinio mokykla###
+Zilvinas#Zilvinavicius#16#188#
+Vidas#Vidavicius#14#189#
+Lukas#Lukavicius#16#198#
+Marius#Marevicius#15#197#
+Gytis#Gytavicius#16#187#
+Evaldas#Evaldavicius#14#190#
+Mykolas#Mykolavicius#17#209#
+Giedrius#Giedravicius#16#189#
+Augis#Augustinavicius#15#193#
+Vytautas#Vytautavicius#14#183#
